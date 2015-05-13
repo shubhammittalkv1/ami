@@ -21,3 +21,4 @@ with con:
     cur.execute("CREATE TABLE User(UID INT PRIMARY KEY,fb_id VARCHAR(40),fb_name VARCHAR(25),first_name VARCHAR(25))")
     
     
+shubham Mittal
